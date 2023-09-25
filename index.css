@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul li {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    list-style: none;
+}
+
+
+
+
+
+
+
